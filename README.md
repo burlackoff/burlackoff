@@ -1,9 +1,12 @@
+<h2 align="center">Hi there 👋 My name is Stepan</h2>
+<h3 align="center">I'm a web-developer</h3>
+
+https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif
 ![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
-### Hi there 👋 My name is Stepan
+<p align="center">
 
-I'm a beginner web-developer
-
+</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
