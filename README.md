@@ -1,5 +1,9 @@
 ### Hi there 👋
+
 <img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlackoff&theme=tokyonight)
+
 <!--
 **burlackoff/burlackoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
