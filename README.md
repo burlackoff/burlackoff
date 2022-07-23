@@ -3,9 +3,8 @@
 <br>
 <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="300">
 <br>
-<br>
 and I'm a beginner web-developer
-
+<br>
 </h2>
 
 <h3 align="center">My technology stack:</h3>
@@ -21,18 +20,17 @@ and I'm a beginner web-developer
 <div align="center">
 <h3 >contact me:</h3>
     <a href="https://t.me/burlackoff" target="_blank">
-        <img src="./images/telegram.png" width="44px">
+        <img src="./images/telegram.png" width="44">
     </a>
     <a href="mailto: burlackoff@gmail.com" target="_blank">
-        <img src="./images/arroba.png" width="44px">
+        <img src="./images/arroba.png" width="44">
     </a>
 </div>
 </p>
 <br>
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=burlackoff&show_icons=true&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlackoff&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlackoff&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlackoff&theme=tokyonight)
-
+    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=burlackoff&show_icons=true&theme=tokyonight">
+    <img width="45" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlackoff&theme=tokyonight">
+    <img width="45" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlackoff&theme=tokyonight">
+    <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlackoff&theme=tokyonight">
 </div>
