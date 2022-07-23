@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋 My name is Stepan
-
+<br>
 <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="300">
 
 </h2>
@@ -15,8 +15,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Sass.svg" title="SASS"**alt="SASS" width="40" height="40"/>
 </p>
 
-contact me:
-
+<p align="center">contact me:
 <div align="center">
     <a href="https://t.me/burlackoff" target="blank">
         <img src="./images/telegram.png" width="44px">
@@ -25,11 +24,10 @@ contact me:
         <img src="./images/arroba.png" width="44px">
     </a>
 </div>
-
+</p>
+<br>
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=burlackoff&show_icons=true&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlackoff&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlackoff&theme=tokyonight)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlackoff&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlackoff&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlackoff&theme=tokyonight)
+</div>
