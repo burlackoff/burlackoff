@@ -1,4 +1,4 @@
-<a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw"></a>
+![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 ### Hi there 👋 My name is Stepan
 
