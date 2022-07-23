@@ -30,7 +30,11 @@ and I'm a beginner web-developer
 <br>
 <div align="center">
     <img width="80%" src="https://github-readme-stats.vercel.app/api?username=burlackoff&show_icons=true&theme=tokyonight">
+</div>
+<div align="center">
     <img width="45" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlackoff&theme=tokyonight">
     <img width="45" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlackoff&theme=tokyonight">
+</div>
+<div align="center">
     <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlackoff&theme=tokyonight">
 </div>
