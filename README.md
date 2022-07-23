@@ -1,15 +1,7 @@
-### Hi there 👋
+<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+### Hi there 👋 My name is Stepan
 
-<img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlackoff&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlackoff&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlackoff&theme=tokyonight)
-
-<!--
-**burlackoff/burlackoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a beginner web-developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,4 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlackoff&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlackoff&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlackoff&theme=tokyonight)
