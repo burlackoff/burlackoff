@@ -2,7 +2,8 @@
 <br>
 <br>
 <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="300">
-
+<br>
+<br>
 <h3 align="center">and I'm a beginner web-developer</h3>
 
 </h2>
@@ -28,7 +29,10 @@
 </div>
 </p>
 <br>
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=burlackoff&show_icons=true&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burlackoff&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burlackoff&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burlackoff&theme=tokyonight)
+
+</div>
